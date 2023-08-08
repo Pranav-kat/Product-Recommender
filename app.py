@@ -6,6 +6,14 @@ import matplotlib.pyplot as plt
 
 product_database_path = "data\meta_AMAZON_FASHION.json.gz"
 
+import os
+
+if os.path.exists(product_database_path):
+    st.write("File exists at path:", product_database_path)
+else:
+    st.write("File does not exist at path:", product_database_path)
+
+
 
 
 # Function to load and preprocess the data
