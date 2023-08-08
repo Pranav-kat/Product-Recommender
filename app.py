@@ -4,7 +4,7 @@ import gzip
 import json
 import matplotlib.pyplot as plt
 
-product_database_path = "data\meta_AMAZON_FASHION.json.gz"
+product_database_path = "meta_AMAZON_FASHION.json.gz"
 
 import os
 
