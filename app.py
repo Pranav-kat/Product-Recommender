@@ -5,13 +5,13 @@ import json
 import matplotlib.pyplot as plt
 
 product_database_path = "data\meta_AMAZON_FASHION.json.gz"
-file_path = "data\meta_AMAZON_FASHION.json.gz"
+
 
 
 # Function to load and preprocess the data
-def load_and_preprocess_data(file_path):
+def load_and_preprocess_data(product_database_path):
     records = []
-    with gzip.open(file_path, 'r') as file:
+    with gzip.open(product_database_path, 'r') as file:
         for line in file:
             record = json.loads(line)
             title = record.get('title', '')
