@@ -4,7 +4,9 @@ import gzip
 import json
 import matplotlib.pyplot as plt
 
-file_path = "Dataset\meta_AMAZON_FASHION.json.gz"
+product_database_path = "data\meta_AMAZON_FASHION.json.gz"
+file_path = "data\meta_AMAZON_FASHION.json.gz"
+
 
 # Function to load and preprocess the data
 def load_and_preprocess_data(file_path):
