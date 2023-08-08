@@ -3,7 +3,8 @@
 ## Overview
 
 The Product Recommendation System is a web-based application that provides personalized product recommendations based on user preferences. It allows users to filter products by brand, price range, and other attributes to receive tailored recommendations.
-![The Model](Images\Product Reccomendation System.png)
+
+<img title="a title" alt="Alt text" src="Images/Product Reccomendation System.png">
 
 ## Features
 
