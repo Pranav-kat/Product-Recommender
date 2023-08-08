@@ -39,7 +39,7 @@ The Product Recommendation System is a web-based application that provides perso
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/product-recommendation-system.git
+git clone https://github.com/Pranav-kat/Swym_Project_Build.git
 cd product-recommendation-system
 ```
 ### Install the required dependencies:
@@ -82,11 +82,11 @@ The product recommendation system offers a personalized shopping experience by a
 This prototype offers a foundation that can be further expanded with more advanced recommendation algorithms, additional user preference options, user accounts, integration with e-commerce platforms, and more.
 ## Contribution
 
-Feel free to fork the project, create a feature branch, and send me a pull request. For bugs, questions, and discussions, please use the [GitHub Issues](https://github.com/yourusername/product-recommendation-system/issues).
+Feel free to fork the project, create a feature branch, and send me a pull request. For bugs, questions, and discussions, please use the [GitHub Issues](https://github.com/Pranav-kat/Swym_Project_Build/issues).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Pranav-kat/Swym_Project_Build/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://ch
 
 Pranav Katte - [pranavkatte07@gmail.com](mailto:pranavkatte07@gmail.com)
 
-Project Link: [https://github.com/yourusername/product-recommendation-system](https://github.com/yourusername/product-recommendation-system)
+Project Link: [https://github.com/Pranav-kat/Swym_Project_Build](https://github.com/Pranav-kat/Swym_Project_Build)
